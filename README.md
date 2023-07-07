@@ -15,26 +15,26 @@ This repository contains my solution for the DevOps assignment. The assignment w
 └───Assignment
     ├───Docker
     │       Dockerfile
-    │       task.txt
+    │       README.md
     │
     ├───Git
     │       post-receive
-    │       task.txt
+    │       README.md
     │
     ├───monitoring
     │       log_monitor.sh
     │       process_monitor.sh
-    │       task.txt
+    │       README.md
     │
     ├───Network
-    │       task.txt
+    │       README.md
     │
     ├───programming
     │       avaamo.py
-    │       task.txt
+    │       README.md
     │
     └───Security
-            task.txt
+            README.md
 ```
 
 ### Prerequisites
