@@ -9,31 +9,34 @@ This repository contains my solution for the DevOps assignment. The assignment w
 - Coding : Basic Python
 
 ### Solution Structure
- README.md
-│
-└───Assignment
-    ├───Docker
-    │       Dockerfile
-    │       task.txt
-    │
-    ├───Git
-    │       post-receive
-    │       task.txt
-    │
-    ├───monitoring
-    │       log_monitor.sh
-    │       process_monitor.sh
-    │       task.txt
-    │
-    ├───Network
-    │       task.txt
-    │
-    ├───programming
-    │       avaamo.py
-    │       task.txt
-    │
-    └───Security
-            task.txt
+```
+\---Avaamo-assignment
+    |   README.md
+    |
+    \---Assignment
+        +---Docker
+        |       Dockerfile
+        |       task.txt
+        |       
+        +---Git
+        |       post-receive
+        |       task.txt
+        |
+        +---monitoring
+        |       log_monitor.sh
+        |       process_monitor.sh
+        |       task.txt
+        |
+        +---Network
+        |       task.txt
+        |
+        +---programming
+        |       avaamo.py
+        |       task.txt
+        |
+        \---Security
+                task.txt
+```
 
 ### Prerequisites
 
