@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Change to the repository's root directory
+cd /path/to/repository
+
+# Execute your script
+./your-script.sh
